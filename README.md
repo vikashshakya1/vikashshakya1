@@ -16,16 +16,6 @@
 
 ---
 
-### 💼 Currently Working On
-
-- 🧠 **Generative AI for Emotion Detection** in corporate environments
-- 🚚 **AI-powered Logistics Route Optimization** using Reinforcement Learning
-- 🗣️ **Multilingual Financial Chatbot** using GPT-2 + vector search (Hindi, English, Malayalam)
-- 🌲 **Forest Fire Early Warning System** using weather + satellite data (IMD Project)
-- 🐠 **Sustainable Development Dashboards** (SDG: Life Below Water)
-
----
-
 ### 🔥 Featured Projects
 
 | Project | Description |
@@ -72,7 +62,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vikash-shakya-351469218/)
 - 📫 Email: vikashhshakya@gmail.com
-- 🌍 [Portfolio (Coming Soon!)](https://github.com/vikashshakya1)
+- 🌍 [Portfolio](https://vikashshakya1.github.io/Portfolio_Website/)
 
 ---
 
