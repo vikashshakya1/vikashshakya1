@@ -60,9 +60,11 @@
 
 ### 🤝 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vikash-shakya-351469218/)
+- 💼![image](https://github.com/user-attachments/assets/90190afe-1015-4c38-9db6-77b5f2ac24c3)
+ [LinkedIn](https://www.linkedin.com/in/vikash-shakya-351469218/)
 - 📫 Email: vikashhshakya@gmail.com
 - 🌍 [Portfolio](https://vikashshakya1.github.io/Portfolio_Website/)
+-     .[Twitteer](https://x.com/vikashhshakya).
 
 ---
 
