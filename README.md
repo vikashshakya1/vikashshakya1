@@ -63,7 +63,7 @@
 - 💼LinkedIn: (https://www.linkedin.com/in/vikash-shakya-351469218/)
 - 📫Email: vikashhshakya@gmail.com
 - 🌍Portfolio: (https://vikashshakya1.github.io/Portfolio_Website/)
-- Twitteer: (https://x.com/vikashhshakya).
+-   Twitter: (https://x.com/vikashhshakya).
 
 ---
 
